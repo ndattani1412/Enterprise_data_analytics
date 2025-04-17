@@ -39,17 +39,3 @@ This analysis helps:
 - Support budget planning through seasonal trend forecasting  
 - Identify high-growth markets for strategic investment
 
-## Author
-
-Nidhi Dattani  
-Email: ndattani@asu.edu  
-MSBA Candidate, W. P. Carey School of Business, Arizona State University  
-LinkedIn: www.linkedin.com/in/nidhi-dattani-92b205326
-
-## Keywords
-
-SQL Analytics, Sales Data Analysis, Business Intelligence, Revenue Forecasting, Data Aggregation, Retail Strategy, EDA, Geospatial Insights
-
-## License
-
-This project is provided for educational and professional portfolio purposes only.
